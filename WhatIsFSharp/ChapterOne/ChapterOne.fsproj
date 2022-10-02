@@ -7,6 +7,9 @@
 
     <ItemGroup>
         <Compile Include="ExampleOne.fs" />
+        <Compile Include="ExampleTwo.fs" />
+        <Compile Include="ExampleThree.fs" />
+        <Compile Include="ExampleFour.fs" />
     </ItemGroup>
 
 </Project>

@@ -1,4 +1,6 @@
-﻿open System // Get access to functionality in System namespace
+﻿// What is F#
+module ChapterOne.ExampleOne
+open System // Get access to functionality in System namespace
 
 // Define a list of names
 let names = ["Peter"; "Julia"; "Xi"]
@@ -8,3 +10,4 @@ let getGreeting name = $"Hello {name}"
 
 // Print a greeting for each name
 names |> List.map getGreeting |> List.iter (fun greeting -> printfn $"{greeting}! Enjoy your F#")
+

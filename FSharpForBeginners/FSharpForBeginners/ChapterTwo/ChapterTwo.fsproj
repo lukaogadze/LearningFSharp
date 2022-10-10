@@ -7,8 +7,7 @@
 
     <ItemGroup>
         <Compile Include="Program.fs" />
-        <None Include="hello-world.fsx" />
-        <None Include="packages.fsx" />
+        <None Include="values.fsx" />
     </ItemGroup>
 
 </Project>

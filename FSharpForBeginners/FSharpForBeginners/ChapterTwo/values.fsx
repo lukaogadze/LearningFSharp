@@ -30,3 +30,5 @@ let wrongName = "New yok"
 let mutable mutableCityName = "new york"
 
 mutableCityName <- wrongName
+
+"Test"

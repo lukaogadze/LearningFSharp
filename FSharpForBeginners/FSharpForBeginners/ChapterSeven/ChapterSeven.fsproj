@@ -6,12 +6,12 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Include="interfaces.fsx" />
+    <None Include="pattern-matching.fsx" />
+    <None Include="loops.fsx" />
+    <None Include="conditional.fsx" />
     <Compile Include="Program.fs" />
   </ItemGroup>
 
-  <ItemGroup>
-    <None Include="clases.fsx" />
-  </ItemGroup>
+  <ItemGroup />
 
 </Project>
